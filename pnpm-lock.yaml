@@ -1,0 +1,25 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@paradoxum-games/pebble':
+    specifier: 0.1.0-rc.11
+    version: 0.1.0-rc.11
+  '@paradoxum-games/vide':
+    specifier: 0.3.1
+    version: 0.3.1
+
+packages:
+
+  /@paradoxum-games/pebble@0.1.0-rc.11:
+    resolution: {integrity: sha512-0jnEtCsWJpAUw5sqOhaeeJKeTPxQunszB81/5onsylvRKlvTDEk0qWXyVpUqvsmw9Gjx/sp4cihWhfU/ydA3qA==, tarball: https://npm.pkg.github.com/download/@paradoxum-games/pebble/0.1.0-rc.11/7937a653b933e167ea8f439153a9f9a3bdc91eb3}
+    dependencies:
+      '@paradoxum-games/vide': 0.3.1
+    dev: false
+
+  /@paradoxum-games/vide@0.3.1:
+    resolution: {integrity: sha512-es5r1cS6NaC6FgTIZdLCEelbNT164HB0m5n6aoN46NkRvS0s54shOiN/+fbgoMBOtqOAZhDTGqnD+6c6NusIiw==, tarball: https://npm.pkg.github.com/download/@paradoxum-games/vide/0.3.1/209c4d0bfe0926a05b98bff1d388ebb1b720cbcb}
+    dev: false

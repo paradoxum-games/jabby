@@ -4,6 +4,7 @@
 
 # Packages
 /Packages
+/node_modules
 
 /sourcemap.json
 /out
